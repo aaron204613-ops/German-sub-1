@@ -1,0 +1,5 @@
+{
+  "name": "German Verb Flashcards",
+  "description": "An interactive flashcard application for mastering German verb conjugations (Partizip II). Features AI-powered verification, shuffle mode, keyboard shortcuts, and a mistake review system.",
+  "requestFramePermissions": []
+}
